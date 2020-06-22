@@ -10,3 +10,5 @@ model_saved : pre-trained model using VGG 16
 이 깃헙 리파지토리 클론
 
 test.py 실행
+
+test dataset 생성 방식은 pdf 참고
